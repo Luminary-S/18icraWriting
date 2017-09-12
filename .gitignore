@@ -1,0 +1,17 @@
+*.DS_Store
+archive
+*eps-converted-to.pdf
+*.bbl
+*.blg
+*.aux
+*.log
+*.gz
+
+#*
+
+main.fdb_latexmk
+main.fls
+.ipynb_checkpoints
+*.psd
+pdf/materials
+vid
